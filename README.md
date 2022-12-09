@@ -1,1 +1,1 @@
-Example of a double linked list class in Java
+Example of a doubly linked list class in Java
